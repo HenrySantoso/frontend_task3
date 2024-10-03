@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace BlazingPizza;
+namespace BlazingPizza.Services;
 
 [Route("orders")]
 [ApiController]
